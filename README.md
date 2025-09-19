@@ -10,8 +10,13 @@ Will you find your dream job, be trapped working a dead-end job, or find yoursel
 This project was used with [Twine 2.10](https://twinery.org/) using the built-in **Harlowe** story format language.
 
 ## How to run
+#### Option 1
+1. Use the GitHub Pages build [https://alexsmurray.github.io/CS439_FiniteStateLab/](https://alexsmurray.github.io/CS439_FiniteStateLab/)
+2. Play!
+   
+#### Option 2
 1. Download or clone this repository.
-2. Open the file `BSUGrad.html` in a browser like Chrome, Firefox, or Edge.
+2. Open the file `index.html` in a browser like Chrome, Firefox, or Edge.
 3. Play!
    
 ## Nodes
